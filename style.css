@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    overflow-x: hidden;
+   
+}
+
+.logo{
+
+    height: 35px;
+    width: 65px;
+}
+.card-img-top{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
+.admin_img{
+    width: 100px;
+    object-fit: contain;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    
+}
+.cart_img{
+    width:100px; 
+    height:90px;
+}
